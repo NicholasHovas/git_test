@@ -1,1 +1,1 @@
-This is Nicholas' first git project
+This is Nicholas' first git project!
